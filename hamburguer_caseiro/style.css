@@ -1,0 +1,21 @@
+body {
+    background-color: #F0EFED;
+}
+.principal {
+    width: 900px;
+    margin: 0px auto;
+}
+h1 {
+    color: #D50656;
+    font-size: 42px;
+    text-align: center;
+}
+h2 {
+    color: #D50656;
+}
+.texto {
+    font-size: 21px;
+    list-style: none;
+    text-align: justify;
+    padding: 0px;
+}
